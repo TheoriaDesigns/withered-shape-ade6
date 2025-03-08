@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "withered-shape-ade6",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "426b27e8-edc6-4a2e-bbc0-ba398d1c2429",
+      "database_name": "raspy-hall-ccfd-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
